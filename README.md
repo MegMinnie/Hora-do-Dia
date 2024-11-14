@@ -2,11 +2,11 @@
   <h1>Hora do Dia</h1>
   <div>
     <img src="http://img.shields.io/static/v1?label=JavaScript&message=ES6&color=yellow&style=for-the-badge&logo=javascript"/>
-    <img src="http://img.shields.io/static/v1?label=CSS&message=ES6&color=yellow&style=for-the-badge&logo=CSS"/>
+    <img src="http://img.shields.io/static/v1?label=CSS3&message=ES6&color=yellow&style=for-the-badge&logo=CSS3"/>
         <img src="http://img.shields.io/static/v1?label=HTML5&message=ES6&color=yellow&style=for-the-badge&logo=HTML5"/>
   </div><br>
 
-<div  align="right"> 
+<div  align="left"> 
 **Descrição:**
 <p>Este projeto é um website simples que mostra o horário em tempo real e, de acordo com a hora do dia, altera o horário exibido, a cor de fundo e a imagem.</p>
 
