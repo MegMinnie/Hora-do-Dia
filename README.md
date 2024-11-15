@@ -10,6 +10,7 @@
  </div>
 
 <div align="left">
+  
   ## Como Acessar a Aplicação
 <p>Acesse a aplicação por meio do link: <a href="https://megminnie.github.io/Hora-do-Dia/
 "_blank">clique aqui</a></p>
